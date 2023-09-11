@@ -8,12 +8,12 @@ import pypfopt as pfopt
 import alpha_vantage as av
 import requests
 import json
-API_KEY = 'DLKWGMW4QOL5FBLX'
+API_KEY = 'ENTER ALPHAVANTAGE KEY'
 from datetime import datetime, timedelta
 
 
 
-api_key = "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"
+api_key = "ENTER OPENAI KEY"
 
 class Get_Data:
     def __init__(self, dictionary):
