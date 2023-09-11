@@ -4,7 +4,7 @@ import json
 import re
 import streamlit as st
 from functions import Get_Portfolio, AlphaVantageNewsSentiment
-api_key = "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"
+api_key = "ENTER OPENAI CODE HERE"
 
 # Your other imports, initializations and function definitions remain the same...
 
